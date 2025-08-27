@@ -1,1 +1,11 @@
+torch>=2.0
+transformers
+opencv-python-headless
+pillow
+pymupdf
+layoutparser
+tqdm
+symspellpy
+onnxruntime   # later for optimization
+fastapi uvicorn[standard]  # for serving
 
